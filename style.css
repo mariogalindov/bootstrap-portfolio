@@ -1,0 +1,41 @@
+.main_attributes{
+    margin-top: 50px;
+}
+
+.bla{
+    width: 960px;
+    background-color:yellowgreen;
+}
+
+.footer_letter{
+    color: white;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 0.75),
+      rgba(0, 0, 0, 0)
+    );
+    margin-bottom: 25px;
+  }
+
+  .jumbotron{
+      padding-top: 2.5rem;
+  }
+  .smaller-image {
+    width: 280px;
+  }
+  
+  #img-container {
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+  }
+
+  .img-circle{
+      border-radius: 50%;
+  }

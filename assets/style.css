@@ -1,0 +1,15 @@
+#main_attributes{
+    width: 960px;
+    position: relative;
+    top: 100px;
+    background-color: aqua;
+}
+
+.bla{
+    width: 960px;
+    background-color:yellowgreen;
+}
+
+.footer_letter{
+    color: white;
+}
