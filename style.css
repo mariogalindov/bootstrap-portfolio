@@ -63,3 +63,14 @@ hr {
 .contact-spacing{
   margin-bottom: 15px;
 }
+
+.brand-decoration{
+  padding: inherit 50px;
+  background-color: #772061;
+  margin-left: 4px;
+
+}
+
+h1{
+  color: #772061;
+}
