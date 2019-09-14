@@ -38,3 +38,27 @@ hr {
   .card-additionals{
     margin: 10px auto;
   }
+
+  /* 
+  Empiezan selectores que traje de Codepen para Contact
+   */
+  #social-container {
+    text-align: center;
+    margin-top: 60px;
+  }
+  #social-container img {
+    width: 60px;
+    text-align: center;
+    margin-left: 5px;
+  }
+  #social-container img:hover {
+    -webkit-filter: blur(2px);
+  }
+  
+  img {
+    -webkit-transition: all 1s;
+  }
+
+.contact-spacing{
+  margin-bottom: 15px;
+}
