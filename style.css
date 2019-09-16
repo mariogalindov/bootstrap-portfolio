@@ -54,21 +54,16 @@ hr {
   }
   #social-container img:hover {
     -webkit-filter: blur(2px);
+    filter: blur(2px);
   }
   
   img {
     -webkit-transition: all 1s;
+    transition: all 1s;
   }
 
 .contact-spacing{
   margin-bottom: 15px;
-}
-
-.brand-decoration{
-  padding: inherit 50px;
-  background-color: #772061;
-  margin-left: 4px;
-
 }
 
 h1{
